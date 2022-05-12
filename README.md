@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZulAmi
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning to be a fullstack developer
-- 💞️ I’m looking to collaborate on developing a sneakerbot
+- 💞️ I’m looking to have a career in IT
 - 📫 How to reach me: just drop a message
 
 <!---
