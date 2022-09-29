@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ZulAmi
+- 👋 Hi, I’m Zulhilmi Rahmat
 - 👀 I’m interested in software development
-- 💞️ I’m looking to have a career in IT
 - 📫 How to reach me: just drop a message <br><br>
 ![alt text](https://cdn-icons-png.flaticon.com/128/3074/3074119.png) 
 ![alt text](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)
