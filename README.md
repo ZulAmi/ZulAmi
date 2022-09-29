@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zulhilmi Rahmat
+- 👋 Hi, I’m Zulhilmi
 - 👀 I’m interested in software development
 - 📫 How to reach me: just drop a message <br><br>
 ![alt text](https://cdn-icons-png.flaticon.com/128/3074/3074119.png) 
