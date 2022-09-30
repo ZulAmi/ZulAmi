@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zulhilmi
-- 👀 I’m interested in software development
-- 📫 How to reach me: just drop a message <br><br>
+👋 Hi, I’m Zulhilmi<br>
+👀 I’m interested in software development<br>
+📫 How to reach me: just drop a message <br><br>
 
 ![alt text](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)
 ![alt text](https://cdn-icons-png.flaticon.com/128/888/888847.png) 
