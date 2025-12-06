@@ -14,7 +14,12 @@ Databases
 DevOps & Tools
 <p> <img src="https://cdn-icons-png.flaticon.com/128/2111/2111288.png" width="40" alt="Git" title="Git" /> <img src="https://cdn-icons-png.flaticon.com/128/7499/7499927.png" width="40" alt="CI/CD" title="CI/CD" /> <img src="https://cdn-icons-png.flaticon.com/128/919/919853.png" width="40" alt="Docker" title="Docker Compose" /> <img src="https://cdn-icons-png.flaticon.com/128/873/873120.png" width="40" alt="AWS" title="AWS CDK" /> <img src="https://cdn-icons-png.flaticon.com/128/2103/2103591.png" width="40" alt="Testing" title="Automated Testing" /> <img src="https://cdn-icons-png.flaticon.com/128/3524/3524388.png" width="40" alt="Cost Engineering" title="Cost Engineering" /> </p>
 Mobile
-<p> <img src="https://cdn-icons-png.flaticon.com/128/919/919854.png" width="40" alt="Flutter" title="Flutter/Dart" /> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968371.png" width="40" alt="Riverpod" title="Riverpod" /> <img src="https://cdn-icons-png.flaticon.com/128/1570/1570887.png" width="40" alt="In-App Purchases" title="In-App Purchases" /> <img src="https://cdn-icons-png.flaticon.com/128/2920/2920349.png" width="40" alt="Offline-First" title="Offline-First Architecture" /> </p>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732220.png" width="40" alt="Flutter" title="Flutter/Dart" />
+  <img src="https://cdn-icons-png.flaticon.com/128/2103/2103633.png" width="40" alt="Riverpod" title="Riverpod" />
+  <img src="https://cdn-icons-png.flaticon.com/128/2331/2331966.png" width="40" alt="In-App Purchases" title="In-App Purchases" />
+  <img src="https://cdn-icons-png.flaticon.com/128/1304/1304061.png" width="40" alt="Offline-First" title="Offline-First Architecture" />
+</p>
 Software Methodologies
 <p> <img src="https://cdn-icons-png.flaticon.com/128/2103/2103825.png" width="40" alt="SDLC" title="SDLC" /> <img src="https://cdn-icons-png.flaticon.com/128/2103/2103508.png" width="40" alt="Agile" title="Agile" /> <img src="https://cdn-icons-png.flaticon.com/128/10054/10054652.png" width="40" alt="Waterfall" title="Waterfall" /> </p>
 Operating Systems
